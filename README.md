@@ -1,2 +1,2 @@
 # dwsim-process-simulation
-Chemical engineering simulation projects using DWSim, focused on process design, multi-column separation, and basic process safety analysis
+Collection of DWSim-based process simulation projects including distillation systems, separation processes, and safety-oriented case studies
